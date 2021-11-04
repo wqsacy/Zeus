@@ -1,0 +1,14 @@
+{
+  "name": "wangqs/Zeus",
+  "description": "常用方法封装",
+  "require": {
+    "PHP": ">=7.0"
+  },
+  "license": "MIT",
+  "minimum-stability": "dev",
+  "autoload": {
+    "psr-4": {
+      "Wangqs\\Zeus\\": "src/"
+    }
+  }
+}
