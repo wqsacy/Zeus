@@ -1,5 +1,5 @@
 {
-  "name": "wangqs/Zeus",
+  "name": "wangqs/zeus",
   "description": "常用方法封装",
   "require": {
     "PHP": ">=7.0"
